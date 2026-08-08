@@ -1,0 +1,6 @@
+Q1] prime factorization a number
+Math.round
+Simple and Compound Interest calculatior
+
+next
+if else switch
